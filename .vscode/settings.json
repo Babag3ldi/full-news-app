@@ -1,7 +1,11 @@
 {
     "cSpell.words": [
+        "collaction",
+        "constans",
         "cupertino",
+        "Emum",
         "kartal",
         "riverpod"
-    ]
+    ],
+    "dart.lineLength": 80
 }
